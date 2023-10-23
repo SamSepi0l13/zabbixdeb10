@@ -1,3 +1,6 @@
+# Lógica de instalação do Agente Zabbix no Debian 10
+echo "Instalando o Agente Zabbix no Debian 10..."
+
 # Adicionar o repositório do Zabbix e atualizar o sistema no Debian 10
 echo "Adicionando o repositório do Zabbix e atualizando o sistema no Debian 10..."
 wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian10_all.deb
